@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Alpha",
+    "theme": "Template de Agência Alfa",
+    "folder": "agency-alpha-next/agency-alpha-next",
+    "description": "Design sofisticado e moderno, ideal para destacar os serviços de uma agência dinâmica."
+  },
+  {
+    "name": "Beta",
+    "theme": "Template de Agência Beta",
+    "folder": "agency-beta-next/agency-beta-next",
+    "description": "Um layout criativo e interativo, perfeito para agências que buscam um visual impactante."
+  },
+  {
+    "name": "Classic",
+    "theme": "Template de Agência Clássica",
+    "folder": "agency-classic-next/014-agency-classic-next",
+    "description": "Combinação elegante de estilo clássico com funcionalidades modernas para uma presença online atemporal."
+  },
+  {
+    "name": "Creative",
+    "theme": "Template de Agência Criativa",
+    "folder": "agency-creative-next/agency-creative-next",
+    "description": "Ideal para agências que querem destacar sua criatividade e projetos inovadores."
+  },
+  {
+    "name": "Digital",
+    "theme": "Template de Agência Digital",
+    "folder": "agency-digital-next/agency-digital-next",
+    "description": "Focado em tecnologia e inovação, perfeito para agências digitais."
+  },
+  {
+    "name": "Minimal",
+    "theme": "Template de Agência Minimalista",
+    "folder": "agency-minimal-next/006-agency-minimal-next",
+    "description": "Design minimalista e limpo, oferecendo uma experiência de usuário elegante e simples."
+  },
+  {
+    "name": "Modern",
+    "theme": "Template de Agência Moderna",
+    "folder": "agency-modern-next/005-agency-modern-next",
+    "description": "Um design contemporâneo e vibrante, ideal para agências que querem se destacar no mercado atual."
+  },
+  {
+    "name": "App",
+    "theme": "Template de App Moderno",
+    "folder": "app-modern-next/004-app-modern-next",
+    "description": "Especialmente projetado para aplicativos modernos, destacando funcionalidades e benefícios de forma atraente."
+  },
+  {
+    "name": "CRM",
+    "theme": "Template de Dashboard CRM",
+    "folder": "crm-dashboard-next/crm-dashboard-next",
+    "description": "Layout intuitivo e informativo, perfeito para dashboards de sistemas CRM e ferramentas de gestão de relacionamento."
+  },
+  {
+    "name": "Crypto",
+    "theme": "Template de Criptomoeda",
+    "folder": "crypto-classic-nextjs/crypto-classic-nextjs",
+    "description": "Design elegante e seguro, adequado para plataformas e aplicativos de criptomoeda."
+  },
+  {
+    "name": "Hosting",
+    "theme": "Template de Hosting Clássico",
+    "folder": "hosting-classic-next/hosting-classic-next",
+    "description": "Ideal para empresas de hospedagem, combinando estilo clássico com recursos modernos."
+  },
+  {
+    "name": "Provider",
+    "theme": "Template de Provedor de Hospedagem",
+    "folder": "hosting-provider-next/hosting-provider-next",
+    "description": "Focado em serviços de hospedagem, com design que realça a oferta de serviços e planos."
+  },
+  {
+    "name": "Course",
+    "theme": "Template de Curso Online",
+    "folder": "online-course-next/online-course-next",
+    "description": "Perfeito para cursos online e plataformas educacionais, promovendo aprendizado e engajamento."
+  },
+  {
+    "name": "Fundraising",
+    "theme": "Template de Arrecadação Online",
+    "folder": "online-fundraising-next/online-fundraising-next",
+    "description": "Design atrativo e persuasivo, ideal para campanhas de arrecadação de fundos e iniciativas sociais."
+  },
+  {
+    "name": "SaaS",
+    "theme": "Template de SaaS Clássico",
+    "folder": "saas-classic-next/010-saas-classic-next",
+    "description": "Abordagem clássica para produtos SaaS, destacando características e benefícios para o usuário."
+  },
+  {
+    "name": "Startup",
+    "theme": "Template de Agência de Startup",
+    "folder": "startup-agency-next/startup-agency-next",
+    "description": "Ideal para startups e empresas inovadoras que buscam um visual moderno e dinâmico."
+  },
+  {
+    "name": "Support",
+    "theme": "Template de Sistema de Suporte",
+    "folder": "support-system-next/support-system-next",
+    "description": "Estruturado para sistemas de suporte e atendimento ao cliente, com foco na clareza e acessibilidade."
+  }
+]
+
