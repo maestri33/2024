@@ -93,3 +93,4 @@ self.idea_analyst = Agent(
 ## License
 This project is released under the MIT License.
 # 2024
+# pagAI
